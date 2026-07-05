@@ -27,7 +27,7 @@ I build clean, responsive user interfaces and translate business needs into clea
 
 📬 Let's Connect
 
-🔗 LinkedIn: [[add your link](https://www.linkedin.com/in/shireenfatima/)]
+🔗 LinkedIn: [[ShreenFatima](https://www.linkedin.com/in/shireenfatima/)]
 📧 Email: [shireenfatima1213@gmail.com]
 🌐 Full Portfolio: https://github.com/shireen-code
 
